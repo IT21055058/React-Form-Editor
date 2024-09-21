@@ -1,2 +1,3 @@
-# React-Form-Editor
-Form editor screen using React for buildform.AI
+Form editor screen using React for buildform.Ai
+
+-Miyuru Nimesh
